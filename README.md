@@ -1,6 +1,6 @@
 ## Sobre mim
 - 👋 Olá ! Sou o @EstiversonOliveira 
-- 👀 Interessado em aprender mais sobre programação, especialmente Python e JavaScript, bem como desenvolver novos projetos.
+- 👀 Interessado em aprender mais sobre programação, especialmente **Python** e suas bibliotecas, bem como desenvolver novos projetos.
 - 🌱 Estou estudando :
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=90>
